@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @confusedsoenke
-- 👀 I’m interested in game dev, android dev und web dev
-- 🌱 I’m currently learning UE5 and web tech
+- 👀 I’m interested in developing games, android apps and web apps
+- 🌱 I’m currently learning UE5 and web developement
