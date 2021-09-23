@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @confusedsoenke
-- 👀 I’m interested in developing games, android apps and web apps
-- 🌱 I’m currently learning UE5 and web developement
+- 👀 I've developed some apps for supporting healthcare professions. 
+- My little non-profit hobby-company is called Healthcare Helpers.
+- 🌱 I’m currently learning C++ at the ILS in Germany.
