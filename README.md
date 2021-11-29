@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @confusedsoenke
-- 👀 I've developed some apps for supporting healthcare professions. 
-- My little non-profit hobby-company is called Healthcare Helpers.
-- 🌱 I’m currently learning C++ at the ILS in Germany.
+- 👋 Hi, I’m Soenke. 
+- 👀 I've developed two android-apps and a webapp for supporting healthcare professions. 
